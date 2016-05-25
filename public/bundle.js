@@ -1568,7 +1568,7 @@
 /* 254 */
 /***/ function(module, exports, __webpack_require__) {
 
-	eval("'use strict';\n\nvar React = __webpack_require__(1);\n\nvar Examples = function Examples(props) {\n  return React.createElement(\n    'h3',\n    null,\n    'Examples Component'\n  );\n};\n\nmodule.exports = Examples;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMjU0LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL0V4YW1wbGVzLmpzeD9iYzYzIl0sInNvdXJjZXNDb250ZW50IjpbInZhciBSZWFjdCA9IHJlcXVpcmUoJ3JlYWN0Jyk7XG5cbnZhciBFeGFtcGxlcyA9IChwcm9wcykgPT4ge1xuICByZXR1cm4gKFxuICAgIDxoMz5FeGFtcGxlcyBDb21wb25lbnQ8L2gzPlxuICApO1xufTtcblxubW9kdWxlLmV4cG9ydHMgPSBFeGFtcGxlcztcblxuXG5cbi8qKiBXRUJQQUNLIEZPT1RFUiAqKlxuICoqIGFwcC9jb21wb25lbnRzL0V4YW1wbGVzLmpzeFxuICoqLyJdLCJtYXBwaW5ncyI6Ijs7QUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBRUE7QUFDQTsiLCJzb3VyY2VSb290IjoiIn0=");
+	eval("'use strict';\n\nvar React = __webpack_require__(1);\n\nvar Examples = function Examples(props) {\n  return React.createElement(\n    'h3',\n    null,\n    'Examples Component!'\n  );\n};\n\nmodule.exports = Examples;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMjU0LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL0V4YW1wbGVzLmpzeD9iYzYzIl0sInNvdXJjZXNDb250ZW50IjpbInZhciBSZWFjdCA9IHJlcXVpcmUoJ3JlYWN0Jyk7XG5cbnZhciBFeGFtcGxlcyA9IChwcm9wcykgPT4ge1xuICByZXR1cm4gKFxuICAgIDxoMz5FeGFtcGxlcyBDb21wb25lbnQhPC9oMz5cbiAgKTtcbn07XG5cbm1vZHVsZS5leHBvcnRzID0gRXhhbXBsZXM7XG5cblxuXG4vKiogV0VCUEFDSyBGT09URVIgKipcbiAqKiBhcHAvY29tcG9uZW50cy9FeGFtcGxlcy5qc3hcbiAqKi8iXSwibWFwcGluZ3MiOiI7O0FBQUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUFBO0FBQUE7QUFBQTtBQUVBO0FBQ0E7Iiwic291cmNlUm9vdCI6IiJ9");
 
 /***/ }
 /******/ ]);
